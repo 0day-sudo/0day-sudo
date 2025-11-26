@@ -9,7 +9,7 @@ Ich bin ein jugendlicher Softwareentwickler aus dem Norden Deutschlands mit eine
 - 🤖 Ich habe Erfahrung mit **neuronalen Netzen** in Python und arbeite ebenso mit **Datenbanken** wie SQL.
 - 🌐 Auch mit **HTML** und **JavaScript** kenne ich mich aus und setze beeindruckende Web-Anwendungen um.
 - 🔎 Auf **TryHackMe** bin ich sehr aktiv und hacke dabei besonders gerne Webserver.
-- 🛠️ Aktuell wirke ich am Projekt [Akku Craft](https://github.com/akku-craft/akku-craft) mit, bei dem wir die Zukunft der Powerbanks revolutionieren wollen!
+- 🛠️ Aktuell wirke ich am Projekt [Akku Craft](https://github.com/akku-craft/) mit, bei dem wir die Zukunft der Powerbanks revolutionieren wollen!
 - 🧠 Außerhalb des Codens interessieren mich Mathematik und allem voran die Quantenphysik.
 
 ## Skills
