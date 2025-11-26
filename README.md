@@ -14,7 +14,7 @@ Ich bin ein jugendlicher Softwareentwickler aus dem Norden Deutschlands mit eine
 
 ## Skills
 
-- **Programmiersprachen:** C, Assembler, Python, SQL, HTML, JavaScript
+- **Programmiersprachen:** C/C++, Assembler, Python, SQL, HTML, JavaScript
 - **Bereiche:** Low-Level-Programmierung, Kernel-Entwicklung, Pentesting, Sicherheitstools, künstliche Intelligenz, Datenbanken, Webentwicklung
 - **Plattformen:** TryHackMe
 
