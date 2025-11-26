@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm 0day-sudo 👋
 
-<!--
-**0day-sudo/0day-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ein jugendlicher Softwareentwickler aus dem Norden Deutschlands mit einer Leidenschaft für Low-Level-Programmierung und IT-Sicherheit.
 
-Here are some ideas to get you started:
+## Über mich
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Besonders gerne arbeite ich mit **C** und **Assembler** und entwickle Low-Level-Software.
+- 🔐 Meine Projekte umfassen u.a. das Programmieren von Firewalls direkt im Kernel sowie die Entwicklung von Sandboxes und weiteren Tools für Penetrationstests, wie z.B. **WLAN-Cracking-Tools** oder **Malware**.
+- 🤖 Ich habe Erfahrung mit **neuronalen Netzen** in Python und arbeite ebenso mit **Datenbanken** wie SQL.
+- 🌐 Auch mit **HTML** und **JavaScript** kenne ich mich aus und setze beeindruckende Web-Anwendungen um.
+- 🔎 Auf **TryHackMe** bin ich sehr aktiv und hacke dabei besonders gerne Webserver.
+- 🛠️ Aktuell wirke ich am Projekt [Akku Craft](https://github.com/akku-craft/akku-craft) mit, bei dem wir die Zukunft der Powerbanks revolutionieren wollen!
+- 🧠 Außerhalb des Codens interessieren mich Mathematik und allem voran die Quantenphysik.
+
+## Skills
+
+- **Programmiersprachen:** C, Assembler, Python, SQL, HTML, JavaScript
+- **Bereiche:** Low-Level-Programmierung, Kernel-Entwicklung, Pentesting, Sicherheitstools, künstliche Intelligenz, Datenbanken, Webentwicklung
+- **Plattformen:** TryHackMe
+
+## Kontakt
+
+- 📧 Schreibe mir gerne über GitHub oder vernetze dich mit mir in der TryHackMe-Community!
+
+---
+
+**Fun Fact**: Ich lerne gerne Neues und bin vielseitig interessiert – beim Programmieren, in der Mathematik, Physik und darüber hinaus.
